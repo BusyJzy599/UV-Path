@@ -69,20 +69,19 @@ The **UV-Path** project contains: `build`. `build` is a [React](https://react.de
 
 Before starting UV-Path, make sure the [node.js]([nodejs.org](https://nodejs.org/en)) has been installed.
 
-For starting `node_moudles`, you can simply typing
+1. Download the [data.zip]() file, unzip it and put it into the `build` folder.
+2. For starting `node_moudles`, you can simply typing
 
-```
-cd ./UV-Path
-npm i
-```
+   ```
+   cd ./UV-Path
+   npm i
+   ```
+3. Start the demo with
 
-then start the demo with
-
-```
-npm start
-```
-
-Then navigate to `http://localhost:3000/` in your browser to see demo of **UV-Path** .
+   ```
+   npm start
+   ```
+4. Then navigate to `http://localhost:3000/` in your browser to see demo of **UV-Path** .
 
 # Critations
 
