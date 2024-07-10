@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s build -p 8380",
+    "prd": "nohup serve -s build -p 8380 > react.log 2>&1 &"
+  },
+  "author": "kjprime",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
